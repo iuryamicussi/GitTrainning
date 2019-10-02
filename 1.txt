@@ -1,1 +1,2 @@
-teste001
+teste001-correção bug da RC1.0.0
+agora está estável
